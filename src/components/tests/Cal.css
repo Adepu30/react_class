@@ -1,0 +1,32 @@
+.addition {
+  margin: 15px;
+  color: blue;
+  text-align: center;
+}
+
+.subtraction {
+  margin: 15px;
+  color: red;
+  text-align: center;
+}
+
+.division {
+  margin: 15px;
+  color: orange;
+  text-align: center;
+}
+
+.modulus {
+  margin: 15px;
+  color: violet;
+  text-align: center;
+}
+
+.multiplication {
+  margin: 15px;
+  color: rgb(90, 73, 73);
+  text-align: center;
+}
+/* .body {
+  display: flex;
+} */

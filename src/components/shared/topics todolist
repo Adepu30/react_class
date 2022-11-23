@@ -1,0 +1,8 @@
+
+task conver queryparam to json object 
+if a key is repeated make that values 
+storage use JS to set data in the browser
+splice,slice,map,forEach,reduce,filter,indexOf,includes,find,findIndex,lastIndexOf,regexp,substring,substr,replace,split,join,
+URL,uri,decode uri,encode uri,decode uri Component,encode uri Component,
+object methods,typecasting,
+fetch,axios
